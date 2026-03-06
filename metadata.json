@@ -1,0 +1,7 @@
+{
+  "name": "Japanese Business Meeting Simulator",
+  "description": "An AI-powered simulation to practice Japanese business meetings with real-time cultural feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
