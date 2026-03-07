@@ -169,10 +169,10 @@ Example:
 **Team Name:** XR_Samvaad
 
 Members:
-
+* Amogh Mulik
+* Atharv Chendake
 * Shreyash Kashid
 * Pratik Patil
-* Team Members
 
 ---
 
